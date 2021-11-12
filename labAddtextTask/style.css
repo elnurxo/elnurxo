@@ -1,0 +1,20 @@
+.container .row .col-6{
+    background-color: black;
+    border-radius: 6px;
+}
+.container .row .col-6 p{
+    color: white;
+}
+.customul li{
+    text-decoration: none;
+    list-style-type: none;
+    display: block;
+    box-shadow: -1px 0px 22px 0px rgb(1, 151, 54);
+    -webkit-box-shadow: -1px 0px 22px 0px rgb(1, 151, 54);
+    -moz-box-shadow: -1px 0px 22px 0px rgb(1, 151, 54);
+}
+.customul li p{
+    padding-left: 15px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
