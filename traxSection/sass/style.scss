@@ -1,0 +1,180 @@
+body {
+  height: 1200px;
+  #mySection {
+    margin-top: 200px;
+    height: 700px;
+    .bgcImage {
+      height: 23.313rem;
+      background-image: url("../media/wp3060368-spider-man-4k-wallpapers.png");
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-position: center -32.74px;
+      filter: brightness(60%);
+      transition: 0.6s;
+      width: 100%;
+      &:hover {
+        filter: brightness(100%);
+      }
+      .container1 {
+        position: relative;
+        .row {
+          .marvellogo {
+            img {
+              width: 200px;
+              height: 100px;
+            }
+          }
+          .headingimage {
+            padding: 0;
+            position: absolute;
+            right: 0;
+            top: 9.2rem;
+            float: right;
+            text-align: right;
+            h4 {
+              font-family: "Dosis";
+              font-size: 20px;
+              color: rgb(252, 233, 233);
+              cursor: pointer;
+              transition: 0.2s ease-in-out;
+              &:hover {
+                color: #df1f2d;
+              }
+            }
+            h1 {
+              color: white;
+              text-shadow: 3px 3px #2b3784;
+              letter-spacing: 3px;
+              font-size: 2.75rem;
+              font-weight: bolder;
+              cursor: pointer;
+              font-family: "Bangers";
+              // #2B3784
+              // #447BBE
+              // #B11313
+              // #DF1F2D
+              span {
+                font-family: "Caveat";
+                color: white;
+                font-size: 2.75rem;
+                font-weight: bolder;
+                cursor: pointer;
+                text-shadow: 2px 2px #447bbe;
+              }
+            }
+          }
+        }
+      }
+    }
+    .container2 {
+      .row {
+        .mycarousel {
+          .allcast {
+            .characters {
+              position: relative;
+              display: none;
+              .imagesCarousel {
+                position: absolute;
+                border-radius: 50%;
+                top: -90px;
+                left: 90px;
+                height: 180px;
+                width: 180px;
+                overflow: hidden;
+                img {
+                  border-radius: 50%;
+                  height: 185px;
+                  width: 185px;
+                  overflow: hidden;
+                  text-align: center;
+                  transition: 0.4s ease-in-out;
+                  // display: inline-block;
+                  &:hover {
+                    transform: scale(1.1);
+                  }
+                }
+              }
+              .headingCarousel {
+                text-align: center;
+                padding-top: 105px;
+                font-family: "Poppins";
+                font-weight: 700;
+                font-style: italic;
+                color: brown;
+                h5 {
+                  margin: 0;
+                }
+              }
+              .paragraphCarousel {
+                color: #808080;
+                text-align: center;
+                margin: 0;
+              }
+            }
+                .myFade {
+                    animation-name: fade;
+                    animation-duration: 1.2s;
+                }
+                @keyframes fade {
+                  from {opacity: 0.6}
+                  to {opacity: 1}
+                }
+          }
+          .nextprevbuttons {
+            a {
+                color: black;
+                
+                i {
+                transition: 0.1s ease-in-out;
+                position: absolute;
+                bottom: 41px;
+                font-size: 13px;
+
+                &:hover {
+                //   background-image: linear-gradient(to right, #df1f2d, #2b3784);
+                background-color: #df1f2d;
+                  color: white;
+                  padding: 6px 9px;
+                  border-radius: 50%;
+                  bottom: 35px;
+                }
+              }
+            }
+            .fa-chevron-left {
+              left: 55px;
+              &:hover {
+                left: 46px;
+              }
+            }
+            .fa-chevron-right {
+              right: 55px;
+              &:hover {
+                right: 46px;
+              }
+            }
+          }
+        }
+        .mycontent {
+          padding-left: 170px;
+          p {
+            color: #808080;
+            font-family: "Outfit";
+            font-weight: 300;
+          }
+          ul {
+            padding-left: 0;
+            li {
+              display: inline;
+              a {
+                color: rgb(255, 196, 0);
+                font-size: 13px;
+                letter-spacing: 3px;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
