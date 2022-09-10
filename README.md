@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Baku</h3>
 <img align="right" style="margin-bottom: 450px;" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
 
-<p align="right"> <img style="margin-right: 100px;" src="https://komarev.com/ghpvc/?username=elnurxo&label=Profile%20views&color=0e75b6&style=flat" alt="elnurxo" /> </p>
+<p align="center"> <img style="margin-right: 100px;" align="center" src="https://komarev.com/ghpvc/?username=elnurxo&label=Profile%20views&color=0e75b6&style=flat" alt="elnurxo" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="margin-right: 100px;" src="https://github-profile-trophy.vercel.app/?username=elnurxo" alt="elnurxo" /></a> </p>
 
