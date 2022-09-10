@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm elnurxo a.k.a Elnur Khalilov</h1>
 <h3 align="center">A passionate frontend developer from Baku</h3>
-<img align="right" style="margin-bottom: 50px;" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
+<img align="center" style="margin-bottom: 50px;" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
 
 <p align="right"> <img style="margin-right: 100px;" src="https://komarev.com/ghpvc/?username=elnurxo&label=Profile%20views&color=0e75b6&style=flat" alt="elnurxo" /> </p>
 
-<p align="center" style="margin-right: 100px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elnurxo" alt="elnurxo" /></a> </p>
+<p align="center"> <a style="margin-right: 100px;" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elnurxo" alt="elnurxo" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/elnurxoxo" target="blank"><img src="https://img.shields.io/twitter/follow/elnurxoxo?logo=twitter&style=for-the-badge" alt="elnurxoxo" /></a> </p>
 
