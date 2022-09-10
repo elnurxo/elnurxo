@@ -4,7 +4,7 @@
 
 <p align="right"> <img style="margin-right: 100px;" src="https://komarev.com/ghpvc/?username=elnurxo&label=Profile%20views&color=0e75b6&style=flat" alt="elnurxo" /> </p>
 
-<p align="center"> <a style="margin-right: 100px;" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elnurxo" alt="elnurxo" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="margin-right: 100px;" src="https://github-profile-trophy.vercel.app/?username=elnurxo" alt="elnurxo" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/elnurxoxo" target="blank"><img src="https://img.shields.io/twitter/follow/elnurxoxo?logo=twitter&style=for-the-badge" alt="elnurxoxo" /></a> </p>
 
