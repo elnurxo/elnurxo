@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/elnurxoxo" target="blank"><img src="https://img.shields.io/twitter/follow/elnurxoxo?logo=twitter&style=for-the-badge" alt="elnurxoxo" /></a> </p>
 
-- 🔭 I’m currently studying at **Code Academy PYP Bootcamp**
+- 🔭 I’m currently working at **Code Academy**
 
-- 🌱 I’m currently learning **TypeScript, React, ExpressJS, MongoDB, Redux**
+- 🌱 I’m currently learning **TypeScript**
 
-- 💬 Ask me about **JavaScript, HTML/CSS/SCSS, Jqeury, Bootstrap, C#, .NET Core, MsSql**
+- 💬 Ask me about **JavaScript, HTML/CSS/SCSS, Jqeury, Bootstrap, C#, .NET Core, MsSql, React, ExpressJS, MongoDB, Redux**
 
 - 📫 How to reach me **elnurykh@code.edu.az**
 
