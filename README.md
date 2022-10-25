@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working at **Code Academy**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript, Redux**
 
-- 💬 Ask me about **JavaScript, HTML/CSS/SCSS, Jqeury, Bootstrap, C#, .NET Core, MsSql, React, ExpressJS, MongoDB, Redux**
+- 💬 Ask me about **JavaScript, HTML/CSS/SCSS, Jqeury, Bootstrap, C#, .NET Core, MsSql, React, ExpressJS, MongoDB**
 
 - 📫 How to reach me **elnurykh@code.edu.az**
 
