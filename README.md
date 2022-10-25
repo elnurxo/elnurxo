@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm elnurxo a.k.a Elnur Khalilov</h1>
-<h3 align="center">A passionate frontend developer from Baku</h3>
+<h3 align="center">A passionate web developer from Baku</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
 
 <p align="left"> <img style="margin-right: 100px;" align="center" src="https://komarev.com/ghpvc/?username=elnurxo&label=Profile%20views&color=0e75b6&style=flat" alt="elnurxo" /> </p>
