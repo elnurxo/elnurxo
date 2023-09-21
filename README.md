@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working at **Code Academy**
 
-- 🌱 I’m currently learning **TypeScript, Redux**
+- 🌱 I’m currently learning **Backbone.js, Ember**
 
 - 💬 Ask me about **JavaScript, HTML/CSS/SCSS, Jqeury, Bootstrap, C#, .NET Core, MsSql, React, ExpressJS, MongoDB**
 
