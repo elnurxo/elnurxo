@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/elnurxoxo" target="blank"><img src="https://img.shields.io/twitter/follow/elnurxoxo?logo=twitter&style=for-the-badge" alt="elnurxoxo" /></a> </p>
 
-- 🔭 I’m currently working at **Code Academy**
+- 🔭 I’m currently working at **Code Academy & Orange co.**
 
 - 🌱 I’m currently learning **Backbone.js, Ember**
 
