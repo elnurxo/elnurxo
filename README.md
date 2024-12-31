@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **JavaScript, HTML/CSS/SCSS, Jqeury, TailwindCSS, C#, .NET Core, MsSql, React, Next.js, ExpressJS, MongoDB**
 
-- 📫 How to reach me **elnurykh@code.edu.az**
+- 📫 How to reach me **elnurkhalilov21@gmail.com**
 
 - ⚡ Fun fact **I love The Weeknd**
 
