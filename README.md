@@ -10,13 +10,11 @@
 
 - 🔭 I’m currently working at **Code Academy & Orange co.**
 
-- 🌱 I’m currently learning **Backbone.js, Ember**
+- 🌱 I’m currently learning **Apollo Client, Chai**
 
-- 💬 Ask me about **JavaScript, HTML/CSS/SCSS, Jqeury, TailwindCSS, C#, .NET Core, MsSql, React, Next.js, ExpressJS, MongoDB**
+- 💬 Ask me about **JavaScript, HTML/CSS/SCSS, Jqeury, TailwindCSS, React, Next.js, ExpressJS, Nest.js, MongoDB**
 
 - 📫 How to reach me **elnurkhalilov21@gmail.com**
-
-- ⚡ Fun fact **I love The Weeknd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
