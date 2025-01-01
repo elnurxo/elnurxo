@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Apollo Client, Chai**
 
-- 💬 Ask me about **JavaScript, HTML/CSS/SCSS, Jqeury, TailwindCSS, React, Next.js, ExpressJS, Nest.js, MongoDB**
+- 💬 Ask me about **JavaScript, HTML/CSS/SCSS, Node.js, TailwindCSS, React.js, Next.js, ExpressJS, Nest.js, MongoDB**
 
 - 📫 How to reach me **elnurkhalilov21@gmail.com**
 
