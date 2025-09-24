@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/elnurxoxo" target="blank"><img src="https://img.shields.io/twitter/follow/elnurxoxo?logo=twitter&style=for-the-badge" alt="elnurxoxo" /></a> </p>
 
-- 🔭 I’m currently working at **Code Academy & Orange co.**
+- 🔭 I’m currently working at **Prodata & Machinerium co.**
 
-- 🌱 I’m currently learning **Apollo Client, Chai**
+- 🌱 I’m currently learning **VueJS, Storybook, nuqs**
 
-- 💬 Ask me about **JavaScript, HTML/CSS/SCSS, Node.js, TailwindCSS, React.js, Next.js, ExpressJS, Nest.js, MongoDB**
+- 💬 Ask me about **JavaScript, HTML/CSS/SCSS, Node.js, TailwindCSS, React.js, Next.js, ExpressJS, Nest.js, MongoDB, VueJS, Microfrontend**
 
 - 📫 How to reach me **elnurkhalilov21@gmail.com**
 
